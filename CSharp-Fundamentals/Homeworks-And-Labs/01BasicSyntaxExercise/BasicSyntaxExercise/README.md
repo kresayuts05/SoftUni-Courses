@@ -45,7 +45,7 @@ You are given a group of people, type of the group, on which day of the week the
 There are also discounts based on some conditions:
 
 - **Students –** if the group is bigger than or equal to 30 people you should reduce the **total** price by 15%
-- **B**** usiness – **if the group is bigger than or equal to  100 people** 10 **of them can stay** for free.**
+- **Business –** if the group is bigger than or equal to  100 people 10 of them can stay for free.
 - **Regular –** if the group is bigger than or equal to 10 and less than or equal to 20 reduce the **total** price by 5%
 
 **You should reduce the prices in that EXACT order**
