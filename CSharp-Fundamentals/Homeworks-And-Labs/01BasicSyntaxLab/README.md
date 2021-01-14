@@ -1,4 +1,4 @@
-# 01. Basic Syntax Lab
+# 01. Basic Syntax, Conditional Statements and Loops - Lab
 
 # 1.Student Information
 
