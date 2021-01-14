@@ -1,4 +1,4 @@
-# 01. Basic Syntax, Conditional Statements and Loops - Lab
+# Basic Syntax, Conditional Statements and Loops - Lab
 
 # 1.Student Information
 
@@ -68,11 +68,11 @@ Again, we need to take **floating-point** number from the console. After that pr
 
 # 4.Back in 30 Minutes
 
-Every time Stamat tries to pay his bills he sees on the cash desk the sign: **&quot;**** I will be back in 30 minutes ****&quot;**. One day Stamat was sick of waiting and decided he needs a program, which **prints the time** after **30**** minutes**. That way he won&#39;t have to wait on the desk and come at the appropriate time. He gave the assignment to you, so you have to do it.
+Every time Stamat tries to pay his bills he sees on the cash desk the sign: **&quot;**** I will be back in 30 minutes ****&quot;**. One day Stamat was sick of waiting and decided he needs a program, which **prints the time** after **30 minutes**. That way he won&#39;t have to wait on the desk and come at the appropriate time. He gave the assignment to you, so you have to do it.
 
 ### Input
 
-The **input** will be on two lines. On the **first**** line **, you will receive the** hours **and on the** second **you will receive the** minutes**.
+The **input** will be on two lines. On the **first line **, you will receive the** hours **and on the** second **you will receive the** minutes**.
 
 ### Output
 
@@ -95,7 +95,7 @@ Write a program, which takes an **integer** from the console and prints the corr
 
 ### Input
 
-You will receive a **single**** integer **on a** single line**.
+You will receive a **single** integer **on a** single line**.
 
 ### Output
 
@@ -179,7 +179,7 @@ Print the next **n** odd numbers, starting from **1** , separated by **new lines
 
 ### Constraints
 
-- **??**** n **will be in the interval** [1…100]**
+- **??** n **will be in the interval** [1…100]**
 
 ### Examples
 
