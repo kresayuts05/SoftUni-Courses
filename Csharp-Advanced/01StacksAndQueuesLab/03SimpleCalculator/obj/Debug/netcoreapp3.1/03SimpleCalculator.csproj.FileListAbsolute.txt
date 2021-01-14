@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\03SimpleCalculator\bin\Debug\netcoreapp3.1\03SimpleCalculator.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\03SimpleCalculator\bin\Debug\netcoreapp3.1\03SimpleCalculator.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\03SimpleCalculator\bin\Debug\netcoreapp3.1\03SimpleCalculator.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\03SimpleCalculator\bin\Debug\netcoreapp3.1\03SimpleCalculator.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\03SimpleCalculator\bin\Debug\netcoreapp3.1\03SimpleCalculator.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\03SimpleCalculator\bin\Debug\netcoreapp3.1\03SimpleCalculator.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\03SimpleCalculator\obj\Debug\netcoreapp3.1\03SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\03SimpleCalculator\obj\Debug\netcoreapp3.1\03SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\03SimpleCalculator\obj\Debug\netcoreapp3.1\03SimpleCalculator.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\03SimpleCalculator\obj\Debug\netcoreapp3.1\03SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\03SimpleCalculator\obj\Debug\netcoreapp3.1\03SimpleCalculator.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\03SimpleCalculator\obj\Debug\netcoreapp3.1\03SimpleCalculator.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\03SimpleCalculator\obj\Debug\netcoreapp3.1\03SimpleCalculator.genruntimeconfig.cache

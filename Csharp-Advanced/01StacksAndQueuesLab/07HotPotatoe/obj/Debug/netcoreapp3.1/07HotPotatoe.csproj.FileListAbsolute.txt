@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\07HotPotatoe\bin\Debug\netcoreapp3.1\07HotPotatoe.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\07HotPotatoe\bin\Debug\netcoreapp3.1\07HotPotatoe.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\07HotPotatoe\bin\Debug\netcoreapp3.1\07HotPotatoe.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\07HotPotatoe\bin\Debug\netcoreapp3.1\07HotPotatoe.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\07HotPotatoe\bin\Debug\netcoreapp3.1\07HotPotatoe.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\07HotPotatoe\bin\Debug\netcoreapp3.1\07HotPotatoe.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\07HotPotatoe\obj\Debug\netcoreapp3.1\07HotPotatoe.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\07HotPotatoe\obj\Debug\netcoreapp3.1\07HotPotatoe.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\07HotPotatoe\obj\Debug\netcoreapp3.1\07HotPotatoe.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\07HotPotatoe\obj\Debug\netcoreapp3.1\07HotPotatoe.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\07HotPotatoe\obj\Debug\netcoreapp3.1\07HotPotatoe.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\07HotPotatoe\obj\Debug\netcoreapp3.1\07HotPotatoe.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\07HotPotatoe\obj\Debug\netcoreapp3.1\07HotPotatoe.genruntimeconfig.cache

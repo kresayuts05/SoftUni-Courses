@@ -1,0 +1,12 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\06Supermarket\bin\Debug\netcoreapp3.1\06Supermarket.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\06Supermarket\bin\Debug\netcoreapp3.1\06Supermarket.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\06Supermarket\bin\Debug\netcoreapp3.1\06Supermarket.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\06Supermarket\bin\Debug\netcoreapp3.1\06Supermarket.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\06Supermarket\bin\Debug\netcoreapp3.1\06Supermarket.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\06Supermarket\bin\Debug\netcoreapp3.1\06Supermarket.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\06Supermarket\obj\Debug\netcoreapp3.1\06Supermarket.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\06Supermarket\obj\Debug\netcoreapp3.1\06Supermarket.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\06Supermarket\obj\Debug\netcoreapp3.1\06Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\06Supermarket\obj\Debug\netcoreapp3.1\06Supermarket.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\06Supermarket\obj\Debug\netcoreapp3.1\06Supermarket.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StacksAndQueuesLab\06Supermarket\obj\Debug\netcoreapp3.1\06Supermarket.genruntimeconfig.cache
