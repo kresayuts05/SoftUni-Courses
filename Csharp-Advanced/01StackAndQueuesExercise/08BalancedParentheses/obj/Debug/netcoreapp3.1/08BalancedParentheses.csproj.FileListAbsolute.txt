@@ -1,0 +1,12 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\08BalancedParentheses\bin\Debug\netcoreapp3.1\08BalancedParentheses.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\08BalancedParentheses\bin\Debug\netcoreapp3.1\08BalancedParentheses.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\08BalancedParentheses\bin\Debug\netcoreapp3.1\08BalancedParentheses.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\08BalancedParentheses\bin\Debug\netcoreapp3.1\08BalancedParentheses.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\08BalancedParentheses\bin\Debug\netcoreapp3.1\08BalancedParentheses.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\08BalancedParentheses\bin\Debug\netcoreapp3.1\08BalancedParentheses.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\08BalancedParentheses\obj\Debug\netcoreapp3.1\08BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\08BalancedParentheses\obj\Debug\netcoreapp3.1\08BalancedParentheses.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\08BalancedParentheses\obj\Debug\netcoreapp3.1\08BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\08BalancedParentheses\obj\Debug\netcoreapp3.1\08BalancedParentheses.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\08BalancedParentheses\obj\Debug\netcoreapp3.1\08BalancedParentheses.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\08BalancedParentheses\obj\Debug\netcoreapp3.1\08BalancedParentheses.genruntimeconfig.cache

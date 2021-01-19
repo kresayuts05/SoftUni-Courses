@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\03MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03MaximumAndMinimumElement.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\03MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03MaximumAndMinimumElement.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\03MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\03MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03MaximumAndMinimumElement.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\03MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03MaximumAndMinimumElement.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\03MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03MaximumAndMinimumElement.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\03MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03MaximumAndMinimumElement.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\03MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\03MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\03MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\03MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03MaximumAndMinimumElement.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\03MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03MaximumAndMinimumElement.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\03MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03MaximumAndMinimumElement.genruntimeconfig.cache

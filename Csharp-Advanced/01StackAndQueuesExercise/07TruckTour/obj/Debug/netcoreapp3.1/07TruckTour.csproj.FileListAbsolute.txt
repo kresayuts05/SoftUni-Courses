@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\07TruckTour\obj\Debug\netcoreapp3.1\07TruckTour.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\07TruckTour\obj\Debug\netcoreapp3.1\07TruckTour.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\07TruckTour\obj\Debug\netcoreapp3.1\07TruckTour.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\07TruckTour\obj\Debug\netcoreapp3.1\07TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\07TruckTour\bin\Debug\netcoreapp3.1\07TruckTour.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\07TruckTour\bin\Debug\netcoreapp3.1\07TruckTour.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\07TruckTour\bin\Debug\netcoreapp3.1\07TruckTour.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\07TruckTour\bin\Debug\netcoreapp3.1\07TruckTour.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\07TruckTour\bin\Debug\netcoreapp3.1\07TruckTour.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\07TruckTour\bin\Debug\netcoreapp3.1\07TruckTour.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\07TruckTour\obj\Debug\netcoreapp3.1\07TruckTour.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\07TruckTour\obj\Debug\netcoreapp3.1\07TruckTour.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\01StackAndQueuesExercise\07TruckTour\obj\Debug\netcoreapp3.1\07TruckTour.genruntimeconfig.cache
