@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\05SnakeMoves\bin\Debug\netcoreapp3.1\05SnakeMoves.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\05SnakeMoves\bin\Debug\netcoreapp3.1\05SnakeMoves.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\05SnakeMoves\bin\Debug\netcoreapp3.1\05SnakeMoves.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\05SnakeMoves\bin\Debug\netcoreapp3.1\05SnakeMoves.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\05SnakeMoves\bin\Debug\netcoreapp3.1\05SnakeMoves.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\05SnakeMoves\bin\Debug\netcoreapp3.1\05SnakeMoves.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\05SnakeMoves\obj\Debug\netcoreapp3.1\05SnakeMoves.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\05SnakeMoves\obj\Debug\netcoreapp3.1\05SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\05SnakeMoves\obj\Debug\netcoreapp3.1\05SnakeMoves.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\05SnakeMoves\obj\Debug\netcoreapp3.1\05SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\05SnakeMoves\obj\Debug\netcoreapp3.1\05SnakeMoves.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\05SnakeMoves\obj\Debug\netcoreapp3.1\05SnakeMoves.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\05SnakeMoves\obj\Debug\netcoreapp3.1\05SnakeMoves.genruntimeconfig.cache

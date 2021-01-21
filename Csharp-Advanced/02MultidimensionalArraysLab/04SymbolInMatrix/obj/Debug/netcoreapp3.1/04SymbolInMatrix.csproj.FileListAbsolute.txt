@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\04SymbolInMatrix\bin\Debug\netcoreapp3.1\04SymbolInMatrix.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\04SymbolInMatrix\bin\Debug\netcoreapp3.1\04SymbolInMatrix.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\04SymbolInMatrix\bin\Debug\netcoreapp3.1\04SymbolInMatrix.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\04SymbolInMatrix\bin\Debug\netcoreapp3.1\04SymbolInMatrix.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\04SymbolInMatrix\bin\Debug\netcoreapp3.1\04SymbolInMatrix.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\04SymbolInMatrix\bin\Debug\netcoreapp3.1\04SymbolInMatrix.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\04SymbolInMatrix\obj\Debug\netcoreapp3.1\04SymbolInMatrix.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\04SymbolInMatrix\obj\Debug\netcoreapp3.1\04SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\04SymbolInMatrix\obj\Debug\netcoreapp3.1\04SymbolInMatrix.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\04SymbolInMatrix\obj\Debug\netcoreapp3.1\04SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\04SymbolInMatrix\obj\Debug\netcoreapp3.1\04SymbolInMatrix.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\04SymbolInMatrix\obj\Debug\netcoreapp3.1\04SymbolInMatrix.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\04SymbolInMatrix\obj\Debug\netcoreapp3.1\04SymbolInMatrix.genruntimeconfig.cache

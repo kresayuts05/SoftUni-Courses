@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\02SumMatrixColumns\bin\Debug\netcoreapp3.1\02SumMatrixColumns.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\02SumMatrixColumns\bin\Debug\netcoreapp3.1\02SumMatrixColumns.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\02SumMatrixColumns\bin\Debug\netcoreapp3.1\02SumMatrixColumns.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\02SumMatrixColumns\bin\Debug\netcoreapp3.1\02SumMatrixColumns.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\02SumMatrixColumns\bin\Debug\netcoreapp3.1\02SumMatrixColumns.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\02SumMatrixColumns\bin\Debug\netcoreapp3.1\02SumMatrixColumns.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\02SumMatrixColumns\obj\Debug\netcoreapp3.1\02SumMatrixColumns.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\02SumMatrixColumns\obj\Debug\netcoreapp3.1\02SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\02SumMatrixColumns\obj\Debug\netcoreapp3.1\02SumMatrixColumns.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\02SumMatrixColumns\obj\Debug\netcoreapp3.1\02SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\02SumMatrixColumns\obj\Debug\netcoreapp3.1\02SumMatrixColumns.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\02SumMatrixColumns\obj\Debug\netcoreapp3.1\02SumMatrixColumns.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysLab\02SumMatrixColumns\obj\Debug\netcoreapp3.1\02SumMatrixColumns.genruntimeconfig.cache

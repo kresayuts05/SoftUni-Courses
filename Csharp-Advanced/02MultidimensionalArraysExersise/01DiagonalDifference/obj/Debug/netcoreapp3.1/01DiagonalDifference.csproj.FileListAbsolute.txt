@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\01DiagonalDifference\bin\Debug\netcoreapp3.1\01DiagonalDifference.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\01DiagonalDifference\bin\Debug\netcoreapp3.1\01DiagonalDifference.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\01DiagonalDifference\bin\Debug\netcoreapp3.1\01DiagonalDifference.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\01DiagonalDifference\bin\Debug\netcoreapp3.1\01DiagonalDifference.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\01DiagonalDifference\bin\Debug\netcoreapp3.1\01DiagonalDifference.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\01DiagonalDifference\bin\Debug\netcoreapp3.1\01DiagonalDifference.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\01DiagonalDifference\obj\Debug\netcoreapp3.1\01DiagonalDifference.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\01DiagonalDifference\obj\Debug\netcoreapp3.1\01DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\01DiagonalDifference\obj\Debug\netcoreapp3.1\01DiagonalDifference.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\01DiagonalDifference\obj\Debug\netcoreapp3.1\01DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\01DiagonalDifference\obj\Debug\netcoreapp3.1\01DiagonalDifference.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\01DiagonalDifference\obj\Debug\netcoreapp3.1\01DiagonalDifference.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\01DiagonalDifference\obj\Debug\netcoreapp3.1\01DiagonalDifference.genruntimeconfig.cache

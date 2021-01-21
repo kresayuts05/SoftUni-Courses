@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\02SquaresIinMatrix2X2\bin\Debug\netcoreapp3.1\02SquaresIinMatrix2X2.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\02SquaresIinMatrix2X2\bin\Debug\netcoreapp3.1\02SquaresIinMatrix2X2.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\02SquaresIinMatrix2X2\bin\Debug\netcoreapp3.1\02SquaresIinMatrix2X2.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\02SquaresIinMatrix2X2\bin\Debug\netcoreapp3.1\02SquaresIinMatrix2X2.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\02SquaresIinMatrix2X2\bin\Debug\netcoreapp3.1\02SquaresIinMatrix2X2.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\02SquaresIinMatrix2X2\bin\Debug\netcoreapp3.1\02SquaresIinMatrix2X2.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\02SquaresIinMatrix2X2\obj\Debug\netcoreapp3.1\02SquaresIinMatrix2X2.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\02SquaresIinMatrix2X2\obj\Debug\netcoreapp3.1\02SquaresIinMatrix2X2.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\02SquaresIinMatrix2X2\obj\Debug\netcoreapp3.1\02SquaresIinMatrix2X2.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\02SquaresIinMatrix2X2\obj\Debug\netcoreapp3.1\02SquaresIinMatrix2X2.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\02SquaresIinMatrix2X2\obj\Debug\netcoreapp3.1\02SquaresIinMatrix2X2.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\02SquaresIinMatrix2X2\obj\Debug\netcoreapp3.1\02SquaresIinMatrix2X2.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\02SquaresIinMatrix2X2\obj\Debug\netcoreapp3.1\02SquaresIinMatrix2X2.genruntimeconfig.cache

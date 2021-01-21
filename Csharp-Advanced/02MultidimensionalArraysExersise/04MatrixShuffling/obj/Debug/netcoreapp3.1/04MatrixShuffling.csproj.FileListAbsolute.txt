@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\04MatrixShuffling\bin\Debug\netcoreapp3.1\04MatrixShuffling.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\04MatrixShuffling\bin\Debug\netcoreapp3.1\04MatrixShuffling.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\04MatrixShuffling\bin\Debug\netcoreapp3.1\04MatrixShuffling.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\04MatrixShuffling\bin\Debug\netcoreapp3.1\04MatrixShuffling.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\04MatrixShuffling\bin\Debug\netcoreapp3.1\04MatrixShuffling.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\04MatrixShuffling\bin\Debug\netcoreapp3.1\04MatrixShuffling.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\04MatrixShuffling\obj\Debug\netcoreapp3.1\04MatrixShuffling.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\04MatrixShuffling\obj\Debug\netcoreapp3.1\04MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\04MatrixShuffling\obj\Debug\netcoreapp3.1\04MatrixShuffling.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\04MatrixShuffling\obj\Debug\netcoreapp3.1\04MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\04MatrixShuffling\obj\Debug\netcoreapp3.1\04MatrixShuffling.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\04MatrixShuffling\obj\Debug\netcoreapp3.1\04MatrixShuffling.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\04MatrixShuffling\obj\Debug\netcoreapp3.1\04MatrixShuffling.genruntimeconfig.cache
