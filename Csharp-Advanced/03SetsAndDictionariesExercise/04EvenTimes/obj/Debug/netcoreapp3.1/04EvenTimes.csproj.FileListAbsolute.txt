@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\03SetsAndDictionariesExercise\04EvenTimes\bin\Debug\netcoreapp3.1\04EvenTimes.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\03SetsAndDictionariesExercise\04EvenTimes\bin\Debug\netcoreapp3.1\04EvenTimes.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\03SetsAndDictionariesExercise\04EvenTimes\bin\Debug\netcoreapp3.1\04EvenTimes.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\03SetsAndDictionariesExercise\04EvenTimes\bin\Debug\netcoreapp3.1\04EvenTimes.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\03SetsAndDictionariesExercise\04EvenTimes\bin\Debug\netcoreapp3.1\04EvenTimes.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\03SetsAndDictionariesExercise\04EvenTimes\bin\Debug\netcoreapp3.1\04EvenTimes.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\03SetsAndDictionariesExercise\04EvenTimes\obj\Debug\netcoreapp3.1\04EvenTimes.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\03SetsAndDictionariesExercise\04EvenTimes\obj\Debug\netcoreapp3.1\04EvenTimes.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\03SetsAndDictionariesExercise\04EvenTimes\obj\Debug\netcoreapp3.1\04EvenTimes.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\03SetsAndDictionariesExercise\04EvenTimes\obj\Debug\netcoreapp3.1\04EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\03SetsAndDictionariesExercise\04EvenTimes\obj\Debug\netcoreapp3.1\04EvenTimes.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\03SetsAndDictionariesExercise\04EvenTimes\obj\Debug\netcoreapp3.1\04EvenTimes.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\03SetsAndDictionariesExercise\04EvenTimes\obj\Debug\netcoreapp3.1\04EvenTimes.genruntimeconfig.cache
