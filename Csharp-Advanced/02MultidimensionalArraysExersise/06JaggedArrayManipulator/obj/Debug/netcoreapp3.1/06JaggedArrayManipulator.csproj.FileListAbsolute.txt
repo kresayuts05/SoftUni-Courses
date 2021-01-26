@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\06JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06JaggedArrayManipulator.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\06JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06JaggedArrayManipulator.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\06JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06JaggedArrayManipulator.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\06JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06JaggedArrayManipulator.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\06JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06JaggedArrayManipulator.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\06JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06JaggedArrayManipulator.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\06JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06JaggedArrayManipulator.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\06JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\06JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\06JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\06JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06JaggedArrayManipulator.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\06JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06JaggedArrayManipulator.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\02MultidimensionalArraysExersise\06JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06JaggedArrayManipulator.genruntimeconfig.cache
