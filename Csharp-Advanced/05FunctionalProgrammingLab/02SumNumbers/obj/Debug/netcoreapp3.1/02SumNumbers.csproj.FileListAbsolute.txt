@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\02SumNumbers\bin\Debug\netcoreapp3.1\02SumNumbers.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\02SumNumbers\bin\Debug\netcoreapp3.1\02SumNumbers.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\02SumNumbers\bin\Debug\netcoreapp3.1\02SumNumbers.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\02SumNumbers\bin\Debug\netcoreapp3.1\02SumNumbers.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\02SumNumbers\bin\Debug\netcoreapp3.1\02SumNumbers.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\02SumNumbers\bin\Debug\netcoreapp3.1\02SumNumbers.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.genruntimeconfig.cache

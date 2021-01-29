@@ -6,7 +6,15 @@ namespace _01ActionPrint
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" ");
+            string[] input = Console.ReadLine()
+                .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+
+            Action<string> action = w => Console.WriteLine(w);
+
+            foreach (var word in input)
+            {
+                action(word);
+            }
         }
     }
 }

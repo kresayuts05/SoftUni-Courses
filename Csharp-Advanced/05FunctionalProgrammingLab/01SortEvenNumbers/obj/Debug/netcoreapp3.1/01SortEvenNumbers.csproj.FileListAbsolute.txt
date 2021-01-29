@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\01SortEvenNumbers\bin\Debug\netcoreapp3.1\01SortEvenNumbers.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\01SortEvenNumbers\bin\Debug\netcoreapp3.1\01SortEvenNumbers.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\01SortEvenNumbers\bin\Debug\netcoreapp3.1\01SortEvenNumbers.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\01SortEvenNumbers\bin\Debug\netcoreapp3.1\01SortEvenNumbers.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\01SortEvenNumbers\bin\Debug\netcoreapp3.1\01SortEvenNumbers.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\01SortEvenNumbers\bin\Debug\netcoreapp3.1\01SortEvenNumbers.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.genruntimeconfig.cache
