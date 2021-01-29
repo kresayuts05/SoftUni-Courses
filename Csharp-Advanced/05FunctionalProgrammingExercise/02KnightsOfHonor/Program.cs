@@ -6,7 +6,15 @@ namespace _02KnightsOfHonor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] input = Console.ReadLine()
+                .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+             
+            Action<string> action = w => Console.WriteLine("Sir " + w);
+
+            foreach (var word in input)
+            {
+                action(word);
+            }
         }
     }
 }
