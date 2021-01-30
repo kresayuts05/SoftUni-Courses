@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\03CustomMinFunction\bin\Debug\netcoreapp3.1\03CustomMinFunction.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\03CustomMinFunction\bin\Debug\netcoreapp3.1\03CustomMinFunction.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\03CustomMinFunction\bin\Debug\netcoreapp3.1\03CustomMinFunction.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\03CustomMinFunction\bin\Debug\netcoreapp3.1\03CustomMinFunction.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\03CustomMinFunction\bin\Debug\netcoreapp3.1\03CustomMinFunction.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\03CustomMinFunction\bin\Debug\netcoreapp3.1\03CustomMinFunction.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.genruntimeconfig.cache

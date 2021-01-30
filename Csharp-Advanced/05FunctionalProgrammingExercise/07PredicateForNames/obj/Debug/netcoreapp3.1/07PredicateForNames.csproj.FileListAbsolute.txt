@@ -1,0 +1,12 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\07PredicateForNames\bin\Debug\netcoreapp3.1\07PredicateForNames.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\07PredicateForNames\bin\Debug\netcoreapp3.1\07PredicateForNames.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\07PredicateForNames\bin\Debug\netcoreapp3.1\07PredicateForNames.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\07PredicateForNames\bin\Debug\netcoreapp3.1\07PredicateForNames.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\07PredicateForNames\bin\Debug\netcoreapp3.1\07PredicateForNames.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\07PredicateForNames\bin\Debug\netcoreapp3.1\07PredicateForNames.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\07PredicateForNames\obj\Debug\netcoreapp3.1\07PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\07PredicateForNames\obj\Debug\netcoreapp3.1\07PredicateForNames.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\07PredicateForNames\obj\Debug\netcoreapp3.1\07PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\07PredicateForNames\obj\Debug\netcoreapp3.1\07PredicateForNames.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\07PredicateForNames\obj\Debug\netcoreapp3.1\07PredicateForNames.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\07PredicateForNames\obj\Debug\netcoreapp3.1\07PredicateForNames.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\05AppliedArithmetics\bin\Debug\netcoreapp3.1\05AppliedArithmetics.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\05AppliedArithmetics\bin\Debug\netcoreapp3.1\05AppliedArithmetics.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\05AppliedArithmetics\bin\Debug\netcoreapp3.1\05AppliedArithmetics.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\05AppliedArithmetics\bin\Debug\netcoreapp3.1\05AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\05AppliedArithmetics\bin\Debug\netcoreapp3.1\05AppliedArithmetics.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\05AppliedArithmetics\bin\Debug\netcoreapp3.1\05AppliedArithmetics.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.genruntimeconfig.cache

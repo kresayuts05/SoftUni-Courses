@@ -1,0 +1,12 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\08CustomComparator\bin\Debug\netcoreapp3.1\08CustomComparator.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\08CustomComparator\bin\Debug\netcoreapp3.1\08CustomComparator.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\08CustomComparator\bin\Debug\netcoreapp3.1\08CustomComparator.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\08CustomComparator\bin\Debug\netcoreapp3.1\08CustomComparator.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\08CustomComparator\bin\Debug\netcoreapp3.1\08CustomComparator.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\08CustomComparator\bin\Debug\netcoreapp3.1\08CustomComparator.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\08CustomComparator\obj\Debug\netcoreapp3.1\08CustomComparator.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\08CustomComparator\obj\Debug\netcoreapp3.1\08CustomComparator.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\08CustomComparator\obj\Debug\netcoreapp3.1\08CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\08CustomComparator\obj\Debug\netcoreapp3.1\08CustomComparator.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\08CustomComparator\obj\Debug\netcoreapp3.1\08CustomComparator.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\05FunctionalProgrammingExercise\08CustomComparator\obj\Debug\netcoreapp3.1\08CustomComparator.genruntimeconfig.cache
