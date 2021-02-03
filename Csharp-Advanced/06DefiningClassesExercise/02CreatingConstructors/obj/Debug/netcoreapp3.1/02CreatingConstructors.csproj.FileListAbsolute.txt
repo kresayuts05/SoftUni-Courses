@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\02CreatingConstructors\bin\Debug\netcoreapp3.1\02CreatingConstructors.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\02CreatingConstructors\bin\Debug\netcoreapp3.1\02CreatingConstructors.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\02CreatingConstructors\bin\Debug\netcoreapp3.1\02CreatingConstructors.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\02CreatingConstructors\bin\Debug\netcoreapp3.1\02CreatingConstructors.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\02CreatingConstructors\bin\Debug\netcoreapp3.1\02CreatingConstructors.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\02CreatingConstructors\bin\Debug\netcoreapp3.1\02CreatingConstructors.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.genruntimeconfig.cache

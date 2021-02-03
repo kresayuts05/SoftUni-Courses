@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\01DefineAClassPerson\bin\Debug\netcoreapp3.1\01DefineAClassPerson.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\01DefineAClassPerson\bin\Debug\netcoreapp3.1\01DefineAClassPerson.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\01DefineAClassPerson\bin\Debug\netcoreapp3.1\01DefineAClassPerson.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\01DefineAClassPerson\bin\Debug\netcoreapp3.1\01DefineAClassPerson.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\01DefineAClassPerson\bin\Debug\netcoreapp3.1\01DefineAClassPerson.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\01DefineAClassPerson\bin\Debug\netcoreapp3.1\01DefineAClassPerson.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\01DefineAClassPerson\obj\Debug\netcoreapp3.1\01DefineAClassPerson.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\01DefineAClassPerson\obj\Debug\netcoreapp3.1\01DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\01DefineAClassPerson\obj\Debug\netcoreapp3.1\01DefineAClassPerson.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\01DefineAClassPerson\obj\Debug\netcoreapp3.1\01DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\01DefineAClassPerson\obj\Debug\netcoreapp3.1\01DefineAClassPerson.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\01DefineAClassPerson\obj\Debug\netcoreapp3.1\01DefineAClassPerson.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\01DefineAClassPerson\obj\Debug\netcoreapp3.1\01DefineAClassPerson.genruntimeconfig.cache
