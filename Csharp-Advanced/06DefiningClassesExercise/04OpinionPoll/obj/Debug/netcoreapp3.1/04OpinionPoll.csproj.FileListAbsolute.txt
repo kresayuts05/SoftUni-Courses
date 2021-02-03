@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\04OpinionPoll\obj\Debug\netcoreapp3.1\04OpinionPoll.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\04OpinionPoll\obj\Debug\netcoreapp3.1\04OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\04OpinionPoll\obj\Debug\netcoreapp3.1\04OpinionPoll.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\04OpinionPoll\obj\Debug\netcoreapp3.1\04OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\04OpinionPoll\bin\Debug\netcoreapp3.1\04OpinionPoll.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\04OpinionPoll\bin\Debug\netcoreapp3.1\04OpinionPoll.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\04OpinionPoll\bin\Debug\netcoreapp3.1\04OpinionPoll.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\04OpinionPoll\bin\Debug\netcoreapp3.1\04OpinionPoll.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\04OpinionPoll\bin\Debug\netcoreapp3.1\04OpinionPoll.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\04OpinionPoll\bin\Debug\netcoreapp3.1\04OpinionPoll.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\04OpinionPoll\obj\Debug\netcoreapp3.1\04OpinionPoll.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\04OpinionPoll\obj\Debug\netcoreapp3.1\04OpinionPoll.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\06DefiningClassesExercise\04OpinionPoll\obj\Debug\netcoreapp3.1\04OpinionPoll.genruntimeconfig.cache

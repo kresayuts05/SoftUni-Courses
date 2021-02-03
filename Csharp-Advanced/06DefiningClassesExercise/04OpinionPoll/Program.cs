@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Linq;
 
 namespace DefiningClasses
 {
@@ -9,7 +9,7 @@ namespace DefiningClasses
         {
             int n = int.Parse(Console.ReadLine());
 
-            Family family = new Family();   
+            Person[] people = new Person[n];
 
             for (int i = 0; i < n; i++)
             {
@@ -21,12 +21,18 @@ namespace DefiningClasses
 
                 Person person = new Person(name, age);
 
-                family.AddMember(person);
+                people[i] = person;
             }
 
-            Person output = family.GetOldestMember();
+            Person[] members = people
+                .Where(p => p.Age > 30)
+                .OrderBy(p => p.Name)
+                .ToArray();
 
-            Console.WriteLine($"{output.Name} {output.Age}");
+            foreach (var person in members)
+            {
+                Console.WriteLine($"{person.Name} - {person.Age}");
+            }
         }
     }
 }
