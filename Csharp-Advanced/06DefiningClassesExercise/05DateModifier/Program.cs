@@ -1,12 +1,15 @@
 ﻿using System;
 
-namespace _05DateModifier
+namespace DefiningClasses
 {
-    class Program
+    public class StartUp
     {
         static void Main(string[] args)
         {
-            
+            string firstDateStr = Console.ReadLine();
+            string secondDateStr = Console.ReadLine();
+
+            Console.WriteLine(DateModifier.DaysCalculator(firstDateStr, secondDateStr));
         }
     }
 }
