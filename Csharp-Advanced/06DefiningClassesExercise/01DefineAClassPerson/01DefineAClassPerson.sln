@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03OldestFamilyMember", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04OpinionPoll", "..\04OpinionPoll\04OpinionPoll.csproj", "{9832255D-8F8E-4473-B6B6-BB06423C8081}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05DateModifier", "..\05DateModifier\05DateModifier.csproj", "{32C32FA9-365B-49C1-B149-720F3C2C7E82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05DateModifier", "..\05DateModifier\05DateModifier.csproj", "{32C32FA9-365B-49C1-B149-720F3C2C7E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06SpeedRacing", "..\06SpeedRacing\06SpeedRacing.csproj", "{BB9E53A7-5D6F-435F-9962-41209C27C188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07RawData", "..\07RawData\07RawData.csproj", "{F3E07BBC-7C68-4A83-A07F-A09EEB52456D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{32C32FA9-365B-49C1-B149-720F3C2C7E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32C32FA9-365B-49C1-B149-720F3C2C7E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32C32FA9-365B-49C1-B149-720F3C2C7E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9E53A7-5D6F-435F-9962-41209C27C188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9E53A7-5D6F-435F-9962-41209C27C188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9E53A7-5D6F-435F-9962-41209C27C188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9E53A7-5D6F-435F-9962-41209C27C188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E07BBC-7C68-4A83-A07F-A09EEB52456D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E07BBC-7C68-4A83-A07F-A09EEB52456D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E07BBC-7C68-4A83-A07F-A09EEB52456D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E07BBC-7C68-4A83-A07F-A09EEB52456D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
