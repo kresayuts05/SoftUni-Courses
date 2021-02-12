@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\01GenericBoxOfString\bin\Debug\netcoreapp3.1\01GenericBoxOfString.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\01GenericBoxOfString\bin\Debug\netcoreapp3.1\01GenericBoxOfString.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\01GenericBoxOfString\bin\Debug\netcoreapp3.1\01GenericBoxOfString.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\01GenericBoxOfString\bin\Debug\netcoreapp3.1\01GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\01GenericBoxOfString\bin\Debug\netcoreapp3.1\01GenericBoxOfString.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\01GenericBoxOfString\bin\Debug\netcoreapp3.1\01GenericBoxOfString.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\01GenericBoxOfString\obj\Debug\netcoreapp3.1\01GenericBoxOfString.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\01GenericBoxOfString\obj\Debug\netcoreapp3.1\01GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\01GenericBoxOfString\obj\Debug\netcoreapp3.1\01GenericBoxOfString.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\01GenericBoxOfString\obj\Debug\netcoreapp3.1\01GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\01GenericBoxOfString\obj\Debug\netcoreapp3.1\01GenericBoxOfString.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\01GenericBoxOfString\obj\Debug\netcoreapp3.1\01GenericBoxOfString.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\01GenericBoxOfString\obj\Debug\netcoreapp3.1\01GenericBoxOfString.genruntimeconfig.cache
