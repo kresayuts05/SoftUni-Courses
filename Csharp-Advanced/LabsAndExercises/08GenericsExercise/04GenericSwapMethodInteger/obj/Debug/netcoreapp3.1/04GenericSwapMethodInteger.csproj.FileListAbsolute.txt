@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\04GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04GenericSwapMethodInteger.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\04GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04GenericSwapMethodInteger.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\04GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04GenericSwapMethodInteger.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\04GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04GenericSwapMethodInteger.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\04GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04GenericSwapMethodInteger.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\04GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04GenericSwapMethodInteger.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\08GenericsExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.genruntimeconfig.cache
