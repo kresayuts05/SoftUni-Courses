@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\01Library\bin\Debug\netcoreapp3.1\01Library.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\01Library\bin\Debug\netcoreapp3.1\01Library.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\01Library\bin\Debug\netcoreapp3.1\01Library.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\01Library\bin\Debug\netcoreapp3.1\01Library.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\01Library\bin\Debug\netcoreapp3.1\01Library.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\01Library\bin\Debug\netcoreapp3.1\01Library.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\01Library\obj\Debug\netcoreapp3.1\01Library.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\01Library\obj\Debug\netcoreapp3.1\01Library.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\01Library\obj\Debug\netcoreapp3.1\01Library.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\01Library\obj\Debug\netcoreapp3.1\01Library.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\01Library\obj\Debug\netcoreapp3.1\01Library.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\01Library\obj\Debug\netcoreapp3.1\01Library.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\01Library\obj\Debug\netcoreapp3.1\01Library.genruntimeconfig.cache

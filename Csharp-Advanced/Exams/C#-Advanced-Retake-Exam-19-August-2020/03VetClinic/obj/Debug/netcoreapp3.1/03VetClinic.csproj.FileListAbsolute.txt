@@ -1,0 +1,12 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\bin\Debug\netcoreapp3.1\03VetClinic.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\bin\Debug\netcoreapp3.1\03VetClinic.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\bin\Debug\netcoreapp3.1\03VetClinic.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\bin\Debug\netcoreapp3.1\03VetClinic.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\bin\Debug\netcoreapp3.1\03VetClinic.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\bin\Debug\netcoreapp3.1\03VetClinic.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\obj\Debug\netcoreapp3.1\03VetClinic.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\obj\Debug\netcoreapp3.1\03VetClinic.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\obj\Debug\netcoreapp3.1\03VetClinic.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\obj\Debug\netcoreapp3.1\03VetClinic.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\obj\Debug\netcoreapp3.1\03VetClinic.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\obj\Debug\netcoreapp3.1\03VetClinic.genruntimeconfig.cache
