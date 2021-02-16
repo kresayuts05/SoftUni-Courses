@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.genruntimeconfig.cache

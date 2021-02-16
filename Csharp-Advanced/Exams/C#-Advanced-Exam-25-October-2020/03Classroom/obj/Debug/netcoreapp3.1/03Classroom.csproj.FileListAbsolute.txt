@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\03Classroom\obj\Debug\netcoreapp3.1\03Classroom.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\03Classroom\obj\Debug\netcoreapp3.1\03Classroom.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\03Classroom\obj\Debug\netcoreapp3.1\03Classroom.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\03Classroom\obj\Debug\netcoreapp3.1\03Classroom.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\03Classroom\bin\Debug\netcoreapp3.1\03Classroom.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\03Classroom\bin\Debug\netcoreapp3.1\03Classroom.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\03Classroom\bin\Debug\netcoreapp3.1\03Classroom.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\03Classroom\bin\Debug\netcoreapp3.1\03Classroom.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\03Classroom\bin\Debug\netcoreapp3.1\03Classroom.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\03Classroom\bin\Debug\netcoreapp3.1\03Classroom.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\03Classroom\obj\Debug\netcoreapp3.1\03Classroom.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\03Classroom\obj\Debug\netcoreapp3.1\03Classroom.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-25-October-2020\03Classroom\obj\Debug\netcoreapp3.1\03Classroom.genruntimeconfig.cache
