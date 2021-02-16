@@ -10,3 +10,4 @@ C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-
 C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\obj\Debug\netcoreapp3.1\03VetClinic.dll
 C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\obj\Debug\netcoreapp3.1\03VetClinic.pdb
 C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\obj\Debug\netcoreapp3.1\03VetClinic.genruntimeconfig.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-19-August-2020\03VetClinic\obj\Debug\netcoreapp3.1\03VetClinic.csprojAssemblyReference.cache

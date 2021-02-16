@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Linq;
 
-namespace _03VetClinic
+namespace VetClinic
 {
-    class Program
+    public class StartUp
     {
         static void Main(string[] args)
         {
-           
+
+        }
     }
 }
