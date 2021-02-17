@@ -1,0 +1,12 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\bin\Debug\netcoreapp3.1\02Re-Volt.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\bin\Debug\netcoreapp3.1\02Re-Volt.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\bin\Debug\netcoreapp3.1\02Re-Volt.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\bin\Debug\netcoreapp3.1\02Re-Volt.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\bin\Debug\netcoreapp3.1\02Re-Volt.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\bin\Debug\netcoreapp3.1\02Re-Volt.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\obj\Debug\netcoreapp3.1\02Re-Volt.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\obj\Debug\netcoreapp3.1\02Re-Volt.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\obj\Debug\netcoreapp3.1\02Re-Volt.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\obj\Debug\netcoreapp3.1\02Re-Volt.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\obj\Debug\netcoreapp3.1\02Re-Volt.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\obj\Debug\netcoreapp3.1\02Re-Volt.genruntimeconfig.cache

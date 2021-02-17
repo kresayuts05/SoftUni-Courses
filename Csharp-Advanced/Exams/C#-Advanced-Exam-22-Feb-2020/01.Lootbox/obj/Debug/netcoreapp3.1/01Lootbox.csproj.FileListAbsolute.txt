@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\01.Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\01.Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\01.Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\01.Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\01.Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\01.Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.genruntimeconfig.cache
