@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Lootbox", "01Lootbox.csproj", "{22E08B1D-7BA7-4CD5-ADE1-45B98460BA68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01Lootbox", "01Lootbox.csproj", "{22E08B1D-7BA7-4CD5-ADE1-45B98460BA68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Re-Volt", "..\02Re-Volt\02Re-Volt.csproj", "{0F0AF287-0752-4103-83A3-FB8DEC15737F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02Re-Volt", "..\02Re-Volt\02Re-Volt.csproj", "{0F0AF287-0752-4103-83A3-FB8DEC15737F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Guild", "..\03Guild\03Guild.csproj", "{FB27757C-21F3-493A-8751-B97A94CE0B2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0F0AF287-0752-4103-83A3-FB8DEC15737F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F0AF287-0752-4103-83A3-FB8DEC15737F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F0AF287-0752-4103-83A3-FB8DEC15737F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB27757C-21F3-493A-8751-B97A94CE0B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB27757C-21F3-493A-8751-B97A94CE0B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB27757C-21F3-493A-8751-B97A94CE0B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB27757C-21F3-493A-8751-B97A94CE0B2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

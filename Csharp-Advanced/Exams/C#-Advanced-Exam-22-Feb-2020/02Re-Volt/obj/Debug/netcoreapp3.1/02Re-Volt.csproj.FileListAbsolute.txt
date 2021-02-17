@@ -10,3 +10,4 @@ C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-
 C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\obj\Debug\netcoreapp3.1\02Re-Volt.dll
 C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\obj\Debug\netcoreapp3.1\02Re-Volt.pdb
 C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\obj\Debug\netcoreapp3.1\02Re-Volt.genruntimeconfig.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\02Re-Volt\obj\Debug\netcoreapp3.1\02Re-Volt.csprojAssemblyReference.cache
