@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\03Guild\obj\Debug\netcoreapp3.1\03Guild.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\03Guild\obj\Debug\netcoreapp3.1\03Guild.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\03Guild\obj\Debug\netcoreapp3.1\03Guild.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\03Guild\obj\Debug\netcoreapp3.1\03Guild.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\03Guild\bin\Debug\netcoreapp3.1\03Guild.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\03Guild\bin\Debug\netcoreapp3.1\03Guild.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\03Guild\bin\Debug\netcoreapp3.1\03Guild.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\03Guild\bin\Debug\netcoreapp3.1\03Guild.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\03Guild\bin\Debug\netcoreapp3.1\03Guild.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\03Guild\bin\Debug\netcoreapp3.1\03Guild.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\03Guild\obj\Debug\netcoreapp3.1\03Guild.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\03Guild\obj\Debug\netcoreapp3.1\03Guild.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Exam-22-Feb-2020\03Guild\obj\Debug\netcoreapp3.1\03Guild.genruntimeconfig.cache
