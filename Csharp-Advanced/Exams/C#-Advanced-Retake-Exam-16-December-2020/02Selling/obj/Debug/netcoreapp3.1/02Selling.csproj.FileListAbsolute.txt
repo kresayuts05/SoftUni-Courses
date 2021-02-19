@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\02Selling\bin\Debug\netcoreapp3.1\02Selling.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\02Selling\bin\Debug\netcoreapp3.1\02Selling.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\02Selling\bin\Debug\netcoreapp3.1\02Selling.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\02Selling\bin\Debug\netcoreapp3.1\02Selling.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\02Selling\bin\Debug\netcoreapp3.1\02Selling.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\02Selling\bin\Debug\netcoreapp3.1\02Selling.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\02Selling\obj\Debug\netcoreapp3.1\02Selling.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\02Selling\obj\Debug\netcoreapp3.1\02Selling.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\02Selling\obj\Debug\netcoreapp3.1\02Selling.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\02Selling\obj\Debug\netcoreapp3.1\02Selling.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\02Selling\obj\Debug\netcoreapp3.1\02Selling.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\02Selling\obj\Debug\netcoreapp3.1\02Selling.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\02Selling\obj\Debug\netcoreapp3.1\02Selling.genruntimeconfig.cache

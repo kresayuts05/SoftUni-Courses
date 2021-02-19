@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\01Cooking\bin\Debug\netcoreapp3.1\01Cooking.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\01Cooking\bin\Debug\netcoreapp3.1\01Cooking.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\01Cooking\bin\Debug\netcoreapp3.1\01Cooking.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\01Cooking\bin\Debug\netcoreapp3.1\01Cooking.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\01Cooking\bin\Debug\netcoreapp3.1\01Cooking.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\01Cooking\bin\Debug\netcoreapp3.1\01Cooking.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\01Cooking\obj\Debug\netcoreapp3.1\01Cooking.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\01Cooking\obj\Debug\netcoreapp3.1\01Cooking.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\01Cooking\obj\Debug\netcoreapp3.1\01Cooking.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\01Cooking\obj\Debug\netcoreapp3.1\01Cooking.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\01Cooking\obj\Debug\netcoreapp3.1\01Cooking.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\01Cooking\obj\Debug\netcoreapp3.1\01Cooking.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C#-Advanced-Retake-Exam-16-December-2020\01Cooking\obj\Debug\netcoreapp3.1\01Cooking.genruntimeconfig.cache
