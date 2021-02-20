@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\02Warships\bin\Debug\netcoreapp3.1\02Warships.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\02Warships\bin\Debug\netcoreapp3.1\02Warships.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\02Warships\bin\Debug\netcoreapp3.1\02Warships.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\02Warships\bin\Debug\netcoreapp3.1\02Warships.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\02Warships\bin\Debug\netcoreapp3.1\02Warships.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\02Warships\bin\Debug\netcoreapp3.1\02Warships.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\02Warships\obj\Debug\netcoreapp3.1\02Warships.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\02Warships\obj\Debug\netcoreapp3.1\02Warships.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\02Warships\obj\Debug\netcoreapp3.1\02Warships.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\02Warships\obj\Debug\netcoreapp3.1\02Warships.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\02Warships\obj\Debug\netcoreapp3.1\02Warships.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\02Warships\obj\Debug\netcoreapp3.1\02Warships.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\02Warships\obj\Debug\netcoreapp3.1\02Warships.genruntimeconfig.cache

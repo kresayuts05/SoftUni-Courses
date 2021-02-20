@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\01TheFightForGondor\bin\Debug\netcoreapp3.1\01TheFightForGondor.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\01TheFightForGondor\obj\Debug\netcoreapp3.1\01TheFightForGondor.genruntimeconfig.cache

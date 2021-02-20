@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\03TheRace\bin\Debug\netcoreapp3.1\03TheRace.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\03TheRace\bin\Debug\netcoreapp3.1\03TheRace.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\03TheRace\bin\Debug\netcoreapp3.1\03TheRace.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\03TheRace\bin\Debug\netcoreapp3.1\03TheRace.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\03TheRace\bin\Debug\netcoreapp3.1\03TheRace.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\03TheRace\bin\Debug\netcoreapp3.1\03TheRace.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\03TheRace\obj\Debug\netcoreapp3.1\03TheRace.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\03TheRace\obj\Debug\netcoreapp3.1\03TheRace.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\03TheRace\obj\Debug\netcoreapp3.1\03TheRace.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\03TheRace\obj\Debug\netcoreapp3.1\03TheRace.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\03TheRace\obj\Debug\netcoreapp3.1\03TheRace.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\03TheRace\obj\Debug\netcoreapp3.1\03TheRace.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\Csharp-Advanced\Exams\C3-Advanced-Exam-20-Feb-2021\03TheRace\obj\Debug\netcoreapp3.1\03TheRace.genruntimeconfig.cache
