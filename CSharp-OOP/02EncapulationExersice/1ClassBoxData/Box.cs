@@ -19,72 +19,60 @@ namespace _1ClassBoxData
 
         public double Lenght
         {
-            get
-            {
-                return lenght;
-            }
+            get => lenght;
             private set
             {
-                if (lenght <= 0)
-                {
-                    throw new ArgumentException("Lenght cannot be zero or negative.");
-                    lenght = value;
-                }
+                ThrowIfInvalideSide(value, nameof(Lenght));
 
+                this.lenght = value;
             }
         }
 
         public double Width
         {
-            get
-            {
-                return width;
-            }
+            get => width;
             private set
             {
-                if (width <= 0)
-                {
-                    throw new ArgumentException("Width cannot be zero or negative.");
-                    width = value;
-                }
+                ThrowIfInvalideSide(value, nameof(Width));
 
+                this.width = value;
             }
         }
 
         public double Height
         {
-            get
-            {
-                return height;
-            }
+            get => height;
             private set
             {
-                if (height <= 0)
-                {
-                    throw new ArgumentException("Height cannot be zero or negative.");
-                    height = value;
-                }
+                ThrowIfInvalideSide(value, nameof(Height));
+
+                this.height = value;
 
             }
         }
 
-        public void SurfaceArea()
+        public double SurfaceArea()
         {
-            double surfaceArea = 2 * Lenght * Width + 2 * Lenght * Height + 2 * Width * Height;
-            Console.WriteLine($"Surface Area - {surfaceArea:f2}");
+            return 2 * Lenght * Width + 2 * Lenght * Height + 2 * Width * Height;
         }
 
-        public void LateralSurfaceArea()
+        public double LateralSurfaceArea()
         {
-            double lateralSurfaceArea = 2 * Lenght * Height + 2 * Width * Height;
-
-            Console.WriteLine($"Lateral Surface Area - {lateralSurfaceArea:f2}");
+            return 2 * Lenght * Height + 2 * Width * Height;
         }
 
-        public void Volume()
+        public double Volume()
         {
-            double volume = Lenght * Width * Height;
-            Console.WriteLine($"Volume - {volume:f2}");
+            return Lenght * Width * Height;
+        }
+
+        private void ThrowIfInvalideSide(double value, string side)
+        {
+            if (value <= 0)
+            {
+                throw new ArgumentException($"{side} cannot be zero or negative.");
+            }
+            
         }
     }
 }

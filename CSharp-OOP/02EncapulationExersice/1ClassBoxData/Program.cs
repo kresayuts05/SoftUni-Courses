@@ -6,22 +6,24 @@ namespace _1ClassBoxData
     {
         public static void Main(string[] args)
         {
+            double lenght = double.Parse(Console.ReadLine());
+            double width = double.Parse(Console.ReadLine());
+            double height = double.Parse(Console.ReadLine());
+
             try
             {
-                int lenght = int.Parse(Console.ReadLine());
-                int width = int.Parse(Console.ReadLine());
-                int height = int.Parse(Console.ReadLine());
 
                 Box box = new Box(lenght, width, height);
 
-                box.SurfaceArea();
-                box.LateralSurfaceArea();
-                box.Volume();
+                Console.WriteLine($"Surface Area - {box.SurfaceArea():F2}");
+                Console.WriteLine($"Lateral Surface Area - {box.LateralSurfaceArea():F2}");
+                Console.WriteLine($"Volume - {box.Volume():F2}");
             }
-            catch
+            catch(ArgumentException ex)
             {
-
+                Console.WriteLine(ex);
             }
+
         }
     }
 }
