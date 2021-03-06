@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\1ClassBoxData\bin\Debug\netcoreapp3.1\1ClassBoxData.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\1ClassBoxData\bin\Debug\netcoreapp3.1\1ClassBoxData.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\1ClassBoxData\bin\Debug\netcoreapp3.1\1ClassBoxData.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\1ClassBoxData\bin\Debug\netcoreapp3.1\1ClassBoxData.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\1ClassBoxData\bin\Debug\netcoreapp3.1\1ClassBoxData.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\1ClassBoxData\bin\Debug\netcoreapp3.1\1ClassBoxData.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\1ClassBoxData\obj\Debug\netcoreapp3.1\1ClassBoxData.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\1ClassBoxData\obj\Debug\netcoreapp3.1\1ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\1ClassBoxData\obj\Debug\netcoreapp3.1\1ClassBoxData.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\1ClassBoxData\obj\Debug\netcoreapp3.1\1ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\1ClassBoxData\obj\Debug\netcoreapp3.1\1ClassBoxData.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\1ClassBoxData\obj\Debug\netcoreapp3.1\1ClassBoxData.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\1ClassBoxData\obj\Debug\netcoreapp3.1\1ClassBoxData.genruntimeconfig.cache
