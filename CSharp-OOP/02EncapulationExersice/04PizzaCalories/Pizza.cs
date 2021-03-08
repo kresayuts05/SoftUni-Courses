@@ -38,9 +38,9 @@ namespace _04PizzaCalories
         public int NumberOfToppings
         {
             get => numberOfToppings;
-            set
+            private set
             {
-                if (value < 0 || value > 15)
+                if (value < 0 || value > 10)
                 {
                     throw new ArgumentException("Number of toppings should be in range [0..10].");
                 }
@@ -54,13 +54,7 @@ namespace _04PizzaCalories
             get => totalCalories;
             private set
             {
-                double toppingsCalories = 0;
-                foreach (var toping in toppings)
-                {
-                    toppingsCalories += toping.Calories;
-                }
-
-                totalCalories = toppingsCalories + Dough.Calories;
+                totalCalories = value;
             }
         }
 
@@ -68,10 +62,32 @@ namespace _04PizzaCalories
         public void AddTopping(Topping topping)
         {
             toppings.Add(topping);
+            NumberOfToppings++;
         }
+
+        //private double CalculateCalories()
+        //{
+        //    double toppingsCalories = 0;
+        //    foreach (var toping in toppings)
+        //    {
+        //        toppingsCalories += toping.Calories;
+        //    }
+
+        //    TotalCalories = toppingsCalories + Dough.Calories;
+
+        //    return TotalCalories;
+        //}
 
         public override string ToString()
         {
+            double toppingsCalories = 0;
+            foreach (var toping in toppings)
+            {
+                toppingsCalories += toping.Calories;
+            }
+
+            TotalCalories = toppingsCalories + Dough.Calories;
+
             return $"{Name} - {TotalCalories:F2} Calories.";
         }
     }

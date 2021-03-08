@@ -41,7 +41,9 @@ namespace _04PizzaCalories
                 technique = homemade;
             }
 
-            weight = grams;
+            Weight = grams;
+
+            Calories = (2 * Weight) * Technique * Type;
         }
 
 
@@ -77,7 +79,7 @@ namespace _04PizzaCalories
             get => weight;
             private set
             {
-                if(value < 0 || value > 2000)
+                if(value < 0 || value > 200)
                 {
                     throw new ArgumentException("Dough weight should be in the range [1..200].");
                 }
@@ -91,7 +93,7 @@ namespace _04PizzaCalories
             get => calories;
             private set
             {
-                calories = (2 * Weight) * Technique * Type;
+                calories = value;
             }
         }
     }
