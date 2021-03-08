@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\03ShoppingSpree\bin\Debug\netcoreapp3.1\03ShoppingSpree.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\03ShoppingSpree\bin\Debug\netcoreapp3.1\03ShoppingSpree.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\03ShoppingSpree\bin\Debug\netcoreapp3.1\03ShoppingSpree.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\03ShoppingSpree\bin\Debug\netcoreapp3.1\03ShoppingSpree.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\03ShoppingSpree\bin\Debug\netcoreapp3.1\03ShoppingSpree.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\03ShoppingSpree\bin\Debug\netcoreapp3.1\03ShoppingSpree.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\03ShoppingSpree\obj\Debug\netcoreapp3.1\03ShoppingSpree.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\03ShoppingSpree\obj\Debug\netcoreapp3.1\03ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\03ShoppingSpree\obj\Debug\netcoreapp3.1\03ShoppingSpree.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\03ShoppingSpree\obj\Debug\netcoreapp3.1\03ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\03ShoppingSpree\obj\Debug\netcoreapp3.1\03ShoppingSpree.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\03ShoppingSpree\obj\Debug\netcoreapp3.1\03ShoppingSpree.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\02EncapulationExersice\03ShoppingSpree\obj\Debug\netcoreapp3.1\03ShoppingSpree.genruntimeconfig.cache
