@@ -9,26 +9,25 @@ namespace _04PizzaCalories
             try
             {
                 string[] pizzaInput = Console.ReadLine()
-                .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+                .Split(" ");
 
                 string[] doughInput = Console.ReadLine()
-                    .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+                    .Split(" ");
 
                 Dough dough = new Dough(doughInput[1], doughInput[2], double.Parse(doughInput[3]));
 
                 Pizza pizza = new Pizza(pizzaInput[1], dough);
 
-                string[] command = Console.ReadLine()
-                    .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+                string token = Console.ReadLine();
 
-                while (command[0].ToLower() != "end")
+                while (token.ToLower() != "end")
                 {
+                    string[] command = token.Split();
                     Topping topping = new Topping(command[1], double.Parse(command[2]));
 
                     pizza.AddTopping(topping);
 
-                    command = Console.ReadLine()
-                    .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+                    token = Console.ReadLine();
                 }
 
                 Console.WriteLine(pizza.ToString());

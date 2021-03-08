@@ -21,22 +21,28 @@ namespace _04PizzaCalories
             name = typeInput;
             if (typeInput.ToLower() == "meat")
             {
-                type = meat;
+                Type = meat;
             }
-            else if(typeInput.ToLower() == "veggies")
+            else if (typeInput.ToLower() == "veggies")
             {
-                type = veggies;
+                Type = veggies;
             }
             else if (typeInput.ToLower() == "cheese")
             {
-                type = cheese;
+                Type = cheese;
             }
             else if (typeInput.ToLower() == "sauce")
             {
-                type = sauce;
+                Type = sauce;
+            }
+            else
+            {
+                Type = 0;
             }
 
-            weight = grams;
+            Weight = grams;
+
+            Calories = (2 * Weight) * type;
         }
 
         public double Type
@@ -72,7 +78,7 @@ namespace _04PizzaCalories
             get => calories;
             private set
             {
-                calories = (2 * Weight) * type;
+                calories = value;
             }
         }
     }
