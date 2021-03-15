@@ -4,7 +4,8 @@ using System.Text;
 
 namespace _07MilitaryElite
 {
-    class Private
+    public class Private : IPrivate
     {
+        
     }
 }
