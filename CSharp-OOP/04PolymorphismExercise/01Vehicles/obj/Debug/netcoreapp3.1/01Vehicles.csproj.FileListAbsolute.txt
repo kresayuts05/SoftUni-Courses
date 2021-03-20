@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\01Vehicles\bin\Debug\netcoreapp3.1\01Vehicles.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\01Vehicles\bin\Debug\netcoreapp3.1\01Vehicles.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\01Vehicles\bin\Debug\netcoreapp3.1\01Vehicles.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\01Vehicles\bin\Debug\netcoreapp3.1\01Vehicles.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\01Vehicles\bin\Debug\netcoreapp3.1\01Vehicles.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\01Vehicles\bin\Debug\netcoreapp3.1\01Vehicles.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\01Vehicles\obj\Debug\netcoreapp3.1\01Vehicles.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\01Vehicles\obj\Debug\netcoreapp3.1\01Vehicles.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\01Vehicles\obj\Debug\netcoreapp3.1\01Vehicles.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\01Vehicles\obj\Debug\netcoreapp3.1\01Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\01Vehicles\obj\Debug\netcoreapp3.1\01Vehicles.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\01Vehicles\obj\Debug\netcoreapp3.1\01Vehicles.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\01Vehicles\obj\Debug\netcoreapp3.1\01Vehicles.genruntimeconfig.cache
