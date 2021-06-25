@@ -1,0 +1,9 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\06UnitTests\01. Database_Skeleton\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\06UnitTests\01. Database_Skeleton\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\06UnitTests\01. Database_Skeleton\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\06UnitTests\01. Database_Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\06UnitTests\01. Database_Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\06UnitTests\01. Database_Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\06UnitTests\01. Database_Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\06UnitTests\01. Database_Skeleton\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\06UnitTests\01. Database_Skeleton\Database\obj\Debug\netcoreapp3.1\Database.pdb

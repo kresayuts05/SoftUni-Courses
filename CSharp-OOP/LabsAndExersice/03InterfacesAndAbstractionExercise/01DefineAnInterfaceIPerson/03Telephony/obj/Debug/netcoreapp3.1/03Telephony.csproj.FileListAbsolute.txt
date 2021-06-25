@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\03InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\03Telephony\bin\Debug\netcoreapp3.1\03Telephony.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\03InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\03Telephony\bin\Debug\netcoreapp3.1\03Telephony.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\03InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\03Telephony\bin\Debug\netcoreapp3.1\03Telephony.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\03InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\03Telephony\bin\Debug\netcoreapp3.1\03Telephony.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\03InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\03Telephony\bin\Debug\netcoreapp3.1\03Telephony.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\03InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\03Telephony\bin\Debug\netcoreapp3.1\03Telephony.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\03InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\03Telephony\obj\Debug\netcoreapp3.1\03Telephony.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\03InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\03Telephony\obj\Debug\netcoreapp3.1\03Telephony.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\03InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\03Telephony\obj\Debug\netcoreapp3.1\03Telephony.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\03InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\03Telephony\obj\Debug\netcoreapp3.1\03Telephony.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\03InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\03Telephony\obj\Debug\netcoreapp3.1\03Telephony.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\03InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\03Telephony\obj\Debug\netcoreapp3.1\03Telephony.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\03InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\03Telephony\obj\Debug\netcoreapp3.1\03Telephony.genruntimeconfig.cache

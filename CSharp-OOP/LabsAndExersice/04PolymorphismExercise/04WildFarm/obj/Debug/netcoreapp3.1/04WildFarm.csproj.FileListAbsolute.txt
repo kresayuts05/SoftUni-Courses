@@ -1,0 +1,13 @@
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\04WildFarm\bin\Debug\netcoreapp3.1\04WildFarm.exe
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\04WildFarm\bin\Debug\netcoreapp3.1\04WildFarm.deps.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\04WildFarm\bin\Debug\netcoreapp3.1\04WildFarm.runtimeconfig.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\04WildFarm\bin\Debug\netcoreapp3.1\04WildFarm.runtimeconfig.dev.json
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\04WildFarm\bin\Debug\netcoreapp3.1\04WildFarm.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\04WildFarm\bin\Debug\netcoreapp3.1\04WildFarm.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\04WildFarm\obj\Debug\netcoreapp3.1\04WildFarm.csprojAssemblyReference.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\04WildFarm\obj\Debug\netcoreapp3.1\04WildFarm.AssemblyInfoInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\04WildFarm\obj\Debug\netcoreapp3.1\04WildFarm.AssemblyInfo.cs
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\04WildFarm\obj\Debug\netcoreapp3.1\04WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\04WildFarm\obj\Debug\netcoreapp3.1\04WildFarm.dll
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\04WildFarm\obj\Debug\netcoreapp3.1\04WildFarm.pdb
+C:\Users\kresa\OneDrive\Desktop\GitHub\SoftUni-Courses\CSharp-OOP\04PolymorphismExercise\04WildFarm\obj\Debug\netcoreapp3.1\04WildFarm.genruntimeconfig.cache
