@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni", "SoftUni.csproj", "{DAB9607C-DFA1-427C-A283-EB9225A3C8D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework", "..\homework\homework.csproj", "{2E48A400-D752-4A25-A3EF-BEF04C9E6840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB9607C-DFA1-427C-A283-EB9225A3C8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB9607C-DFA1-427C-A283-EB9225A3C8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB9607C-DFA1-427C-A283-EB9225A3C8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB9607C-DFA1-427C-A283-EB9225A3C8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E48A400-D752-4A25-A3EF-BEF04C9E6840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E48A400-D752-4A25-A3EF-BEF04C9E6840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E48A400-D752-4A25-A3EF-BEF04C9E6840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E48A400-D752-4A25-A3EF-BEF04C9E6840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00168459-D901-4E23-A562-5799B38F118D}
+	EndGlobalSection
+EndGlobal
