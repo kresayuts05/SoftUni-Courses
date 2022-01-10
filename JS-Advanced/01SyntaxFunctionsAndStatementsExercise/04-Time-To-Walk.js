@@ -8,7 +8,7 @@ function solve(steps, footprintInMetres, speed) {
     let timeInSeconds = (distance / speed) * 3600 + breaks * 60;
     let seconds = timeInSeconds % 60;
 
-    let timeInMinutes = timeInSeconds / 60; 
+    let timeInMinutes = timeInSeconds / 60;
     let minutes = Math.floor(timeInMinutes % 60);
 
     let timeInHours = String(Math.floor(timeInMinutes / 60));
@@ -18,4 +18,4 @@ function solve(steps, footprintInMetres, speed) {
     console.log(output);
 }
 
-solve(2564, 0.70, 5.5);
+solve(4000, 0.60, 5);
