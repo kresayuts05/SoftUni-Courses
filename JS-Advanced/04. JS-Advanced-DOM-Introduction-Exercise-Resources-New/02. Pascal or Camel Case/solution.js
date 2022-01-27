@@ -1,6 +1,6 @@
 function solve() {
   let textElement = document.getElementById('text').value;
-  let conventionElement = document.getElementById('naming-convention').value;
+  let conventionElement = document.getElementById(' ').value;
 
   let result = applyNamingConvention(textElement, conventionElement);
 
