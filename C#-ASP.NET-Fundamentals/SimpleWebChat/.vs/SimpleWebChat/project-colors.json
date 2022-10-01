@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "60471af9-bad2-48fb-a60f-119aa7bd3dc7": {
+      "ProjectGuid": "60471af9-bad2-48fb-a60f-119aa7bd3dc7",
+      "DisplayName": "SimpleWebChat",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
